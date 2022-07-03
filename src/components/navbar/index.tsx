@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import tw from 'twin.macro'
-import Logo from '../logo/index'
+import {Logo} from '../logo/index'
 import NavItems from './navItems'
 
 const NavbarContainer = styled.div`
